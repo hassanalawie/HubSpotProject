@@ -1,4 +1,4 @@
-Hey
+Hey! 🤠
 In the spirit of HubSpot's dynamic culture, I put together this Customer Success Dashboard in about an hour—my quick tribute to a company that champions transparency and customer-centric innovation. It was a fun challenge to see what I could craft in a short amount of time while staying true to HubSpot's values. This project is a light-hearted nod to that ethos, showcasing a blend of analytical utility and the agility to create on the fly. It's about embracing the data-driven approach HubSpot is known for, with a bit of flair for good measure.
 
 # Customer Success Dashboard
